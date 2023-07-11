@@ -7,3 +7,4 @@ target/
 .project
 README.md
 .settings
+*.settings
